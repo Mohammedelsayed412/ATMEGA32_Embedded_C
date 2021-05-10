@@ -1,0 +1,264 @@
+
+**** Build of configuration Debug for project Assignment3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 8 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="F:/mohammed/Sbme/last2/Embedded/Assignment_3/Assignment3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"../main.c", line 79: warning #112-D: statement is unreachable
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Assignment3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 8 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="F:/mohammed/Sbme/last2/Embedded/Assignment_3/Assignment3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,14.1,14.2,14.4,14.5,14.7,14.9,14.10,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"../main.c", line 8: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 9: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1383-D: (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call
+"../main.c", line 31: warning #1390-D: (MISRA-C:2004 9.1/R) All automatic variables shall have been assigned a value before being used (variable "new_client")
+"../main.c", line 79: warning #1465-D: (MISRA-C:2004 14.1/R) There shall be no unreachable code
+"../main.c", line 56: warning #1501-D: (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Assignment3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 8 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="F:/mohammed/Sbme/last2/Embedded/Assignment_3/Assignment3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,14.1,14.2,14.4,14.5,14.7,14.9,14.10,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"..\header.h", line 12: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 8: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 9: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 31: warning #1390-D: (MISRA-C:2004 9.1/R) All automatic variables shall have been assigned a value before being used (variable "new_client")
+"../main.c", line 79: warning #1465-D: (MISRA-C:2004 14.1/R) There shall be no unreachable code
+"../main.c", line 56: warning #1501-D: (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Assignment3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 8 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="F:/mohammed/Sbme/last2/Embedded/Assignment_3/Assignment3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,14.1,14.2,14.4,14.5,14.7,14.9,14.10,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"../main.c", line 8: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 9: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1383-D: (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call
+"../main.c", line 31: warning #1390-D: (MISRA-C:2004 9.1/R) All automatic variables shall have been assigned a value before being used (variable "new_client")
+"../main.c", line 79: warning #1465-D: (MISRA-C:2004 14.1/R) There shall be no unreachable code
+"../main.c", line 56: warning #1501-D: (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Assignment3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 8 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="F:/mohammed/Sbme/last2/Embedded/Assignment_3/Assignment3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,14.1,14.2,14.4,14.5,14.7,14.9,14.10,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"../main.c", line 8: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 9: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1383-D: (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call
+"../main.c", line 79: warning #1465-D: (MISRA-C:2004 14.1/R) There shall be no unreachable code
+"../main.c", line 56: warning #1501-D: (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Assignment3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 8 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="F:/mohammed/Sbme/last2/Embedded/Assignment_3/Assignment3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,14.1,14.2,14.4,14.5,14.7,14.9,14.10,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"../main.c", line 8: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 9: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1383-D: (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call
+"../main.c", line 64: warning #1465-D: (MISRA-C:2004 14.1/R) There shall be no unreachable code
+"../main.c", line 56: warning #1501-D: (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Assignment3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 8 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="F:/mohammed/Sbme/last2/Embedded/Assignment_3/Assignment3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,14.1,14.2,14.4,14.5,14.7,14.9,14.10,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"../main.c", line 8: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 9: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1383-D: (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call
+"../main.c", line 56: warning #1501-D: (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Assignment3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 8 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="F:/mohammed/Sbme/last2/Embedded/Assignment_3/Assignment3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,14.1,14.2,14.4,14.5,14.7,14.9,14.10,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"../main.c", line 8: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 9: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1383-D: (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Assignment3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 8 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="F:/mohammed/Sbme/last2/Embedded/Assignment_3/Assignment3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,14.1,14.2,14.4,14.5,14.7,14.9,14.10,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"../main.c", line 9: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1383-D: (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Assignment3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 8 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="F:/mohammed/Sbme/last2/Embedded/Assignment_3/Assignment3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,14.1,14.2,14.4,14.5,14.7,14.9,14.10,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"../main.c", line 10: warning #1383-D: (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Assignment3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 8 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="F:/mohammed/Sbme/last2/Embedded/Assignment_3/Assignment3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,14.1,14.2,14.4,14.5,14.7,14.9,14.10,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1383-D: (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Assignment3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 8 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="F:/mohammed/Sbme/last2/Embedded/Assignment_3/Assignment3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,14.1,14.2,14.4,14.5,14.7,14.9,14.10,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"../main.c", line 10: warning #1383-D: (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Assignment3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 8 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="F:/mohammed/Sbme/last2/Embedded/Assignment_3/Assignment3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,14.1,14.2,14.4,14.5,14.7,14.9,14.10,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Assignment3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 8 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="F:/mohammed/Sbme/last2/Embedded/Assignment_3/Assignment3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,14.1,14.2,14.4,14.5,14.7,14.9,14.10,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"../main.c", line 8: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 9: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../main.c", line 10: warning #1383-D: (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call
+"../main.c", line 31: warning #1390-D: (MISRA-C:2004 9.1/R) All automatic variables shall have been assigned a value before being used (variable "new_client")
+"../main.c", line 80: warning #1465-D: (MISRA-C:2004 14.1/R) There shall be no unreachable code
+"../main.c", line 57: warning #1501-D: (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Assignment3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 8 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="F:/mohammed/Sbme/last2/Embedded/Assignment_3/Assignment3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,14.1,14.2,14.4,14.5,14.7,14.9,14.10,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"../main.c", line 31: warning #1390-D: (MISRA-C:2004 9.1/R) All automatic variables shall have been assigned a value before being used (variable "new_client")
+"../main.c", line 57: warning #1501-D: (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Assignment3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 8 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="F:/mohammed/Sbme/last2/Embedded/Assignment_3/Assignment3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,14.1,14.2,14.4,14.5,14.7,14.9,14.10,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"../main.c", line 57: warning #1501-D: (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Assignment3 ****
+
+"C:\\ti\\ccs1030\\ccs\\utils\\bin\\gmake" -k -j 8 main.obj -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/bin/armcl" -mv4 --code_state=32 --include_path="F:/mohammed/Sbme/last2/Embedded/Assignment_3/Assignment3" --include_path="C:/ti/ccs1030/ccs/tools/compiler/ti-cgt-arm_20.2.4.LTS/include" -g --diag_warning=225 --diag_wrap=off --display_error_number --check_misra="6.2,6.3,6.4,6.5,8.1,8.5,8.7,8.8,8.11,8.12,9.1,9.3,10.1,11.1,11.2,11.4,11.5,12.1,12.2,12.4,12.6,12.7,12.8,13.1,13.2,13.3,13.5,13.6,14.1,14.2,14.4,14.5,14.7,14.9,14.10,15.2,15.3,16.5,16.7,17.4,17.5,19.4,19.11,19.15" --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+
+**** Build Finished ****

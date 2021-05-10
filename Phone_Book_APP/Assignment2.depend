@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1618939661 source:f:\mohammed\sbme\last2\embedded\assignment2_submission\assignment2\main.c
+	<stdio.h>
+	"math.h"
+	"header.h"
+	<string.h>
+	<stdbool.h>
+
+1619891820 f:\mohammed\sbme\last2\embedded\assignment2_submission\assignment2\header.h
+
+1618939662 source:f:\mohammed\sbme\last2\embedded\assignment2_submission\assignment2\functions.c
+	<stdio.h>
+	"math.h"
+	"header.h"
+	<string.h>
+	<stdbool.h>
+	<stdlib.h>
+
